@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUncannyFoxhound
 - 👀 I’m interested in ... ERP/POS Development, Game Development
-- 🌱 I’m currently learning ... Python, C#
+- 🌱 I’m currently learning ... Python, C#, GDScripts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... theuncannyfoxhound@gmail.com
 
